@@ -1,6 +1,4 @@
 # AI-Powered-E-Commerce-Search-Recommendation-Engine
-# AI-Powered E-Commerce Search & Recommendation Engine
-
 ## 🚀 Overview
 
 An intelligent product discovery platform that leverages Machine Learning and Natural Language Processing (NLP) to enhance e-commerce search and recommendations. The system combines semantic search, intent-aware retrieval, sentiment analysis, and hybrid recommendation techniques to deliver more relevant and personalized shopping experiences.
